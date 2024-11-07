@@ -31,6 +31,6 @@ plt.title('Logistic Map')
 plt.xlabel('iteration')
 plt.ylabel('population')
 
+plt.savefig('logistic.png')    
 plt.show()
-    
 
